@@ -56,6 +56,3 @@ The Excel dashboard includes:
 This Excel-based dashboard is a powerful tool for understanding sales performance and identifying opportunities for growth. Its simplicity and interactivity make it an excellent solution for small to medium-sized businesses.
 
 ---
-
-## Contact
-For any questions or suggestions, please feel free to reach out at [your-email@example.com].
