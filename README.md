@@ -1,57 +1,61 @@
 # Coffee Shop Sales Dashboard
 
 ## Project Overview
-The **Coffee Shop Sales Dashboard** is a Excel project that provides insights into the sales performance of a coffee shop across various dimensions. The dashboard visualizes key metrics like total sales, footfall, product performance, and time-based trends, offering actionable insights for decision-making.
+This **Coffee Shop Sales Dashboard** created using Microsoft Excel to analyze and visualize sales performance for a coffee shop. The dashboard provides actionable insights into sales trends, product performance, and customer behavior, helping stakeholders make informed decisions.
 
 ## Features
 - **Total Sales and Footfall**: Displays the overall revenue and customer footfall.
-- **Average Bill and Order Per Person**: Key performance indicators for customer spending behavior.
-- **Time-Based Analysis**: Visualizes quantity ordered by hour and weekdays.
-- **Category and Size Distribution**: Percentage breakdown of sales by product category and order size.
-- **Store Location Analysis**: Sales and footfall across different store locations.
-- **Top Products by Sales**: Highlights the top-performing products.
-
-## Visualizations
-The dashboard includes:
-- Line charts to display hourly sales trends.
-- Pie charts for sales distribution by category and order size.
-- Bar charts for product performance and weekday order trends.
-- KPIs for total sales, average bill/person, and average order/person.
-
-## Data Source
-The data for this project is sourced from an Excel file containing sales data for the coffee shop.
+- **Average Bill and Orders per Person**: Key performance indicators reflecting customer spending behavior.
+- **Time-Based Analysis**:
+  - Hourly sales trends to identify peak business hours.
+  - Weekday analysis of customer orders.
+- **Category Distribution**:
+  - Percentage breakdown of sales by product category.
+  - Size distribution of orders (Small, Regular, Large).
+- **Store Location Performance**:
+  - Sales and footfall comparisons across different store locations.
+- **Top-Selling Products**: Highlights the most popular products by revenue.
 
 ## Tools Used
-- **Power BI**: For creating the dashboard and visualizations.
-- **Excel**: For data preparation and cleanup.
+- **Microsoft Excel**:
+  - Data preparation and transformation.
+  - Pivot tables and charts for visualizations.
+  - Dashboard creation with slicers for interactivity.
 
 ## Key Insights
-1. **Peak Hours**: The busiest sales hours are between 8 AM and 10 AM.
-2. **Top Products**: The best-selling product is Barista Espresso.
-3. **Category Performance**: Coffee contributes the most to total sales.
-4. **Location Comparison**: Sales and footfall are highest in the Hell's Kitchen location.
+1. **Peak Hours**: The highest sales occur between 8 AM and 10 AM.
+2. **Top Products**: Barista Espresso leads as the best-selling product.
+3. **Category Performance**: Coffee accounts for the largest share of total sales (39%).
+4. **Store Locations**: The Hell's Kitchen store has the highest sales and footfall.
+5. **Order Sizes**: Small and Regular sizes dominate the order distribution, each contributing 30%.
 
-## File Structure
-- **Coffee Shop Sales.xlsx**: The raw data file used for analysis.
-- **Dashboard Screenshot**: [Screenshot](Screenshot.png) of the Power BI dashboard.
+## Files in the Repository
+- **`Coffee Shop Sales.xlsx`**: The Excel file containing the data and dashboard.
+- **`Screenshot.png`**: A screenshot of the dashboard for reference.
 
-## How to Run the Project
+## Dashboard Visuals
+The Excel dashboard includes:
+1. **Interactive Slicers** for filtering data by month and day of the week.
+2. **Bar Charts** to compare sales and footfall by store location and product performance.
+3. **Line Chart** to track hourly sales trends.
+4. **Pie Charts** to showcase sales distribution by product category and order size.
+5. **KPIs** for total sales, footfall, average bill per person, and average order per person.
+
+## How to Use
 1. Download the repository.
-2. Open the Power BI dashboard file (if provided).
-3. Load the Excel file into Power BI to refresh the data.
-4. Interact with the visualizations to explore insights.
+2. Open the `Coffee Shop Sales.xlsx` file in Microsoft Excel.
+3. Explore the interactive slicers to filter data by month or day.
+4. Review the charts and KPIs to gain insights into sales performance.
 
 ## Future Enhancements
-- Incorporating predictive analytics to forecast future sales trends.
-- Adding more granular data for deeper analysis (e.g., customer demographics).
-- Automating data refresh for real-time updates.
+- Add more granular data, such as customer demographics or payment methods.
+- Integrate advanced analysis features, such as forecasting and trend analysis.
+- Automate data updates by linking the dashboard to a live data source.
 
 ## Conclusion
-This dashboard serves as a comprehensive tool for analyzing coffee shop sales and performance. It provides valuable insights to help stakeholders make informed decisions to optimize operations and boost revenue.
-
-## Contact
-For questions or collaboration, please reach out via [email](mailto:your-email@example.com).
+This Excel-based dashboard is a powerful tool for understanding sales performance and identifying opportunities for growth. Its simplicity and interactivity make it an excellent solution for small to medium-sized businesses.
 
 ---
 
-Feel free to suggest edits or improvements!
+## Contact
+For any questions or suggestions, please feel free to reach out at [your-email@example.com].
