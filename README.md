@@ -1,7 +1,7 @@
 # Coffee Shop Sales Dashboard
 
 ## Project Overview
-The **Coffee Shop Sales Dashboard** is a Power BI project that provides insights into the sales performance of a coffee shop across various dimensions. The dashboard visualizes key metrics like total sales, footfall, product performance, and time-based trends, offering actionable insights for decision-making.
+The **Coffee Shop Sales Dashboard** is a Excel project that provides insights into the sales performance of a coffee shop across various dimensions. The dashboard visualizes key metrics like total sales, footfall, product performance, and time-based trends, offering actionable insights for decision-making.
 
 ## Features
 - **Total Sales and Footfall**: Displays the overall revenue and customer footfall.
